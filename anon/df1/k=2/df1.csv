@@ -1,0 +1,1001 @@
+native_exponential,native_uniform_bias,eta_45_normal,eta_exponential5,eta_70_normal,native_uniform,native_exponential_bias,eta_uniform5,native_normal
+Asia,*,*,*,*,America del Sud,Europe,*,America
+Europe,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,America del Sud,North America,*,America
+America,*,*,*,*,Africa,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europa,Europe,*,America
+America,*,*,*,*,America del Sud,Europe,*,America
+Asia,*,*,*,*,America Centrale,Europe,*,America
+Europa,*,*,*,*,America Centrale,Nord America,*,Asia
+Europa,*,*,*,*,America del Sud,Asia,*,Europe
+Asia,*,*,*,*,Europa dell'Est,Nord America,*,America
+Europe,*,*,*,*,America Centrale,Europe,*,America
+Europe,*,*,*,*,America Centrale,Europa,*,America
+Europa,*,*,*,*,Asia,Nord America,*,America
+America,*,*,*,*,America del Sud,Southeast Asia,*,America
+Europa,*,*,*,*,Asia,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+Europa,*,*,*,*,North America,Caribbean,*,America
+Asia,*,*,*,*,Europa dell'Est,Asia,*,America
+Europa,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,America Centrale,Nord America,*,Asia
+Asia,*,*,*,*,Asia,North America,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Europe,Europa,*,America
+*,*,*,*,*,*,*,*,*
+Asia Orientale,*,*,*,*,Middle East,America Centrale,*,Europe
+Asia,*,*,*,*,Western Europe,America del Sud,*,America
+Europe,*,*,*,*,South America,North America,*,America
+Asia,*,*,*,*,Europe,America Centrale,*,Europa
+America,*,*,*,*,Europe,Nord America,*,Europa
+North America,*,*,*,*,Africa,Nord America,*,America
+Asia,*,*,*,*,America del Sud,Asia,*,America
+North America,*,*,*,*,Asia,Asia,*,America
+North America,*,*,*,*,North America,Europa,*,America
+Europe,*,*,*,*,North America,Asia,*,America
+America,*,*,*,*,Europe,Nord America,*,Europa
+Asia,*,*,*,*,America,Europe,*,America Centrale
+America del Sud,*,*,*,*,America,Europa,*,America
+America del Nord,*,*,*,*,North America,Sud America,*,Central-America
+Europa,*,*,*,*,Europe,America Centrale,*,America
+Europa,*,*,*,*,Asia,Sud America,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Middle East,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,South America,*,Europe
+Europe,*,*,*,*,America,Western Asia,*,America
+Asia,*,*,*,*,Europe,Europe,*,Europe
+Europa,*,*,*,*,Asia,Southern Europe,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,America Centrale,Asia,*,America
+America Centrale,*,*,*,*,Europa,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,North America,North America,*,Europe
+America Centrale,*,*,*,*,Europa,America del Sud,*,America
+Asia,*,*,*,*,America del Sud,Asia,*,America
+Europe,*,*,*,*,Asia,Southeast Asia,*,America
+America Centrale,*,*,*,*,North America,America Centrale,*,Asia
+Europe,*,*,*,*,Europa,North America,*,America
+Europa,*,*,*,*,Europa,North America,*,America
+America,*,*,*,*,America del Sud,Europe,*,Asia
+Europa,*,*,*,*,North-America,Nord America,*,America
+Europe,*,*,*,*,Europe,Europe,*,America
+America,*,*,*,*,Europe,North America,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+Europe,*,*,*,*,North-America,South America,*,US
+North America,*,*,*,*,Asia,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Asia,America del Sud,*,US
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europe,North America,*,America
+Europe,*,*,*,*,South America,North America,*,America
+Europe,*,*,*,*,Regno Unito,Sud America,*,America
+Europe,*,*,*,*,Europe,America del Sud,*,Southern-Europe
+Asia,*,*,*,*,America del Sud,Asia,*,America
+Europe,*,*,*,*,America,North America,*,America Centrale
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Sud-est asiatico,North America,*,Asia
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,America Centrale,Nord America,*,America
+Europe,*,*,*,*,North-America,South America,*,Europe
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North-America,America del Sud,*,America
+America,*,*,*,*,America Centrale,Europe,*,America
+America,*,*,*,*,Sud-est asiatico,America del Sud,*,America
+North America,*,*,*,*,North America,Europa,*,America
+America Centrale,*,*,*,*,America Centrale,Nord America,*,America
+America,*,*,*,*,North America,Europe,*,America
+Europa,*,*,*,*,Sud-est asiatico,North America,*,Asia
+Europe,*,*,*,*,Europa,Southern Europe,*,Europe
+Asia,*,*,*,*,Europe,Europe,*,Europe
+Europe,*,*,*,*,America,Europa,*,America
+America del Nord,*,*,*,*,Sud-est asiatico,Europa,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,America del Sud,Asia,*,Europe
+America del Nord,*,*,*,*,Sud-est asiatico,North America,*,America
+Asia,*,*,*,*,America del Sud,North America,*,America
+Asia,*,*,*,*,Asia,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europe,America Centrale,*,Europe
+America,*,*,*,*,Asia,Europe,*,South America
+Europe,*,*,*,*,Africa,Europa,*,Europe
+North America,*,*,*,*,Europa,Nord America,*,America
+Sud-est asiatico,*,*,*,*,America,Southeast Asia,*,Europe
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Europa dell'Est,Europe,*,America
+America Centrale,*,*,*,*,Europa,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,South America,Stati Uniti,*,America
+Asia,*,*,*,*,Europa,South America,*,Europe
+Europa,*,*,*,*,Asia,Nord America,*,America
+Europa,*,*,*,*,Europe,Southeast Asia,*,America
+Asia,*,*,*,*,Europa dell'Est,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Europa,*,America
+America del Sud,*,*,*,*,Europe,Europe,*,Europe
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Asia,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,North America,Asia,*,America
+North America,*,*,*,*,Regno Unito,Stati Uniti,*,America
+Asia,*,*,*,*,Europe,Asia,*,America
+Europa,*,*,*,*,Europa,Asia,*,America
+Europa,*,*,*,*,North-America,Nord America,*,America
+Asia,*,*,*,*,America,America Centrale,*,America
+North America,*,*,*,*,Regno Unito,Stati Uniti,*,America
+Europa,*,*,*,*,America Centrale,Southeast Asia,*,Europa
+North America,*,*,*,*,Europe,Europa,*,America
+America,*,*,*,*,America del Sud,Southeast Asia,*,America
+Asia,*,*,*,*,North America,Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Europe,*,Europe
+Asia,*,*,*,*,America del Sud,America Centrale,*,US
+Europe,*,*,*,*,Europe,Europe,*,America
+Asia,*,*,*,*,Middle East,North America,*,Central-America
+Europa,*,*,*,*,America Centrale,North America,*,America
+Asia,*,*,*,*,Europe,Southeast Asia,*,Asia
+America Centrale,*,*,*,*,Asia,America Centrale,*,America
+America Centrale,*,*,*,*,America Centrale,Europa,*,America Centrale
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europa,Caribbean,*,America
+Asia,*,*,*,*,Europe,Europe,*,Europe
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Europa dell'Est,Europe,*,America
+Europe,*,*,*,*,Oceania,North America,*,America
+Europe,*,*,*,*,America Centrale,Europa,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,South America,Nord America,*,America
+America Centrale,*,*,*,*,Asia,Asia,*,America
+North America,*,*,*,*,Asia,Asia,*,Southeast Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Africa,Europa,*,Europe
+America Centrale,*,*,*,*,Asia,Nord America,*,East Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europe,*,America
+Sud-est asiatico,*,*,*,*,America,Southeast Asia,*,Europe
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,North America,Nord America,*,America
+Europa,*,*,*,*,Europe,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,Europa,*,Europa
+North America,*,*,*,*,Asia,Asia,*,Southeast Asia
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,South America,Stati Uniti,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,America del Sud,Europe,*,North-America
+North America,*,*,*,*,South America,Asia,*,America
+Europa,*,*,*,*,North-America,Europe,*,America
+Asia,*,*,*,*,America,America Centrale,*,America
+North America,*,*,*,*,North America,Europe,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,North America,North America,*,America
+America del Nord,*,*,*,*,Sud-est asiatico,North America,*,America
+Europa,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Europa dell'Est,Nord America,*,America
+America,*,*,*,*,Africa,Asia,*,America
+North America,*,*,*,*,America del Sud,Asia,*,America
+Asia,*,*,*,*,America,Sud America,*,East Asia
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Asia,America del Sud,*,America
+America,*,*,*,*,Europe,Europe,*,Central-America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Asia,North America,*,America
+Europe,*,*,*,*,Middle East,America,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+North America,*,*,*,*,Asia,Europa,*,North-America
+North America,*,*,*,*,Europa,Europa,*,America
+North America,*,*,*,*,Asia,America del Sud,*,America Centrale
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,Europe
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Asia,Europa,*,North-America
+Europa,*,*,*,*,Asia,America del Sud,*,America
+Asia,*,*,*,*,North America,Sud America,*,America
+North America,*,*,*,*,Asia Orientale,Europe,*,America
+America,*,*,*,*,North America,Western Asia,*,North America
+North America,*,*,*,*,Sud-est asiatico,Asia,*,East Asia
+Europe,*,*,*,*,Asia Orientale,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Asia,Western Asia,*,Asia
+Europe,*,*,*,*,Europa,North America,*,America
+Europe,*,*,*,*,Asia,Europe,*,US
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,Asia,*,America
+Europa,*,*,*,*,America Centrale,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europe,*,America
+North America,*,*,*,*,Asia Orientale,Asia,*,America
+Asia,*,*,*,*,Europe,Stati Uniti,*,America
+Europe,*,*,*,*,America Centrale,Nord America,*,America
+Europe,*,*,*,*,North America,Europe,*,America
+Europe,*,*,*,*,Asia,Southeast Asia,*,America
+America del Nord,*,*,*,*,Europe,Southeast Asia,*,America
+North America,*,*,*,*,America,Europe,*,Asia
+Asia,*,*,*,*,Europa,North America,*,Europa
+Europe,*,*,*,*,North-America,Europa,*,US
+America Centrale,*,*,*,*,Asia,America Centrale,*,America
+America,*,*,*,*,North America,Europe,*,Southeast Asia
+Asia,*,*,*,*,North America,Nord America,*,America Centrale
+Europe,*,*,*,*,Europe,America del Sud,*,Southern-Europe
+Europe,*,*,*,*,North-America,North America,*,America
+Europa,*,*,*,*,America Centrale,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Western Europe,Caribbean,*,Europe
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Sud America,*,Europe
+*,*,*,*,*,*,*,*,*
+Sud-est asiatico,*,*,*,*,America Centrale,America Centrale,*,America
+North America,*,*,*,*,Europe,Asia,*,Europa
+Europe,*,*,*,*,America Centrale,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,North America,Nord America,*,America
+Asia,*,*,*,*,North-America,Europe,*,Europe
+Europe,*,*,*,*,Middle East,Caribbean,*,East Asia
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europe,North America,*,America
+America,*,*,*,*,North America,Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,North America,Southeast Asia,*,America
+North America,*,*,*,*,North-America,America del Sud,*,America
+Europa,*,*,*,*,Europe,America Centrale,*,America
+North America,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Asia,Sud America,*,America
+Europe,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Europe,North America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Western Europe,Europe,*,Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europe,*,America
+America,*,*,*,*,Western Europe,Western Asia,*,America
+America,*,*,*,*,Africa,Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Regno Unito,Southeast Asia,*,America
+Europe,*,*,*,*,America,Europa,*,America
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,America
+Sud-est asiatico,*,*,*,*,South America,Europe,*,Asia
+Europe,*,*,*,*,North-America,Europe,*,Southern-Europe
+Europe,*,*,*,*,Europa,Stati Uniti,*,America
+America del Nord,*,*,*,*,Asia,Southeast Asia,*,America
+Asia,*,*,*,*,Asia,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Sud-est asiatico,Europe,*,Asia
+Sud-est asiatico,*,*,*,*,North America,Asia,*,Asia
+Europa,*,*,*,*,Asia,Sud America,*,America
+Asia,*,*,*,*,North America,Asia,*,Asia
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europa,Southern Europe,*,Asia
+America,*,*,*,*,North America,Europe,*,Southeast Asia
+North America,*,*,*,*,Asia,America Centrale,*,Asia
+Europe,*,*,*,*,Asia Orientale,Southeast Asia,*,America
+North America,*,*,*,*,Asia Orientale,Western Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,North America,Sud America,*,America
+Europe,*,*,*,*,Europa dell'Est,North America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,America,Stati Uniti,*,Asia
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,America Centrale,America Centrale,*,Asia
+Asia,*,*,*,*,North America,Sud America,*,America
+Asia,*,*,*,*,North-America,America,*,America
+America del Nord,*,*,*,*,North America,Europe,*,America
+Europe,*,*,*,*,Asia,America,*,America
+America,*,*,*,*,America,Stati Uniti,*,Asia
+Europe,*,*,*,*,Asia,Europa,*,Europa
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Sud-est asiatico,America,*,America
+Asia,*,*,*,*,North-America,Europe,*,North America
+Europe,*,*,*,*,America Centrale,America,*,America
+America,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,Regno Unito,Europe,*,America
+Europa,*,*,*,*,Europa,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europa,Europa,*,Europa
+Europe,*,*,*,*,North America,North America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,North America,North America,*,Europe
+Asia,*,*,*,*,Asia,Europa,*,America
+North America,*,*,*,*,North America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Asia,America del Sud,*,America
+Asia,*,*,*,*,America,Sud America,*,East Asia
+Europa,*,*,*,*,Europe,America Centrale,*,America
+America del Sud,*,*,*,*,America,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,America,America Centrale,*,America
+America,*,*,*,*,Europa,Europa,*,Europa
+North America,*,*,*,*,Asia,Europe,*,America
+Europe,*,*,*,*,Asia,America,*,America
+America Centrale,*,*,*,*,Europe,Europa,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europa,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europe,Southern Europe,*,America
+Asia,*,*,*,*,North America,Europe,*,America
+Middle East,*,*,*,*,America Centrale,Europa,*,America
+Europa,*,*,*,*,Europe,South America,*,America
+Europe,*,*,*,*,Europa,Europa,*,Asia
+Sud-est asiatico,*,*,*,*,North America,Asia,*,Asia
+Europe,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North-America,Europe,*,Southern-Europe
+Asia,*,*,*,*,America Centrale,Europe,*,America
+Asia,*,*,*,*,Western Europe,Caribbean,*,Europe
+Asia,*,*,*,*,Asia,Europe,*,East Asia
+North America,*,*,*,*,Asia,Sud America,*,America
+Europa,*,*,*,*,South America,America del Sud,*,America
+Europe,*,*,*,*,North-America,South America,*,US
+Europa,*,*,*,*,Asia,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Oceania,America del Sud,*,America
+Europa,*,*,*,*,Western Europe,Asia,*,America
+Asia,*,*,*,*,Asia,North America,*,America
+Europe,*,*,*,*,America,America Centrale,*,America
+North America,*,*,*,*,North America,North America,*,Europe
+Europe,*,*,*,*,Europe,Asia,*,America
+North America,*,*,*,*,America,North America,*,America
+America del Nord,*,*,*,*,Africa,Europe,*,America
+Europa,*,*,*,*,North-America,Europe,*,America
+Europe,*,*,*,*,North America,North America,*,America
+Europe,*,*,*,*,America Centrale,Asia,*,Asia
+Asia,*,*,*,*,Europe,Asia,*,America
+Asia,*,*,*,*,Asia,Europe,*,America
+Europe,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Regno Unito,North America,*,Europa
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Stati Uniti,*,America Centrale
+Europe,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,America del Sud,Europe,*,America
+North America,*,*,*,*,Asia,South America,*,America
+Europa,*,*,*,*,North-America,Europe,*,America
+America,*,*,*,*,Regno Unito,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North-America,Europe,*,America
+Europa,*,*,*,*,America,Asia,*,America
+Asia,*,*,*,*,Asia,North America,*,America
+Europe,*,*,*,*,Europa,Asia,*,Europa
+Europe,*,*,*,*,Europe,Asia,*,America
+Europa,*,*,*,*,Europe,Asia,*,Europe
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europa,*,America
+North America,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Europa,Caribbean,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,America,Asia,*,America
+Europe,*,*,*,*,South America,North America,*,America
+Asia,*,*,*,*,North-America,America,*,America
+North America,*,*,*,*,North America,Europe,*,South America
+North America,*,*,*,*,Europa dell'Est,Europe,*,US
+America del Nord,*,*,*,*,Africa,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europa,North America,*,America
+North America,*,*,*,*,Europe,Europa,*,America
+Asia,*,*,*,*,Europe,America,*,America
+*,*,*,*,*,*,*,*,*
+America del Nord,*,*,*,*,Europa,Southern Europe,*,America
+Europa,*,*,*,*,North-America,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America del Nord,*,*,*,*,South America,North America,*,America
+Europe,*,*,*,*,Asia,America,*,America
+Europe,*,*,*,*,America Centrale,America,*,America
+Asia,*,*,*,*,Sud-est asiatico,North America,*,America
+Europa,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,America del Sud,Europe,*,North-America
+Europe,*,*,*,*,America Centrale,Europa,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europa,Europa,*,Asia
+Asia,*,*,*,*,North America,Asia,*,America
+America,*,*,*,*,America del Sud,North America,*,America
+Europe,*,*,*,*,Europe,Europa,*,America
+America Centrale,*,*,*,*,Asia,Asia,*,America
+North America,*,*,*,*,Sud-est asiatico,Europe,*,South America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,America,North America,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europe,America Centrale,*,Europe
+Europa,*,*,*,*,America Centrale,North America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North America,Europa,*,America
+Europe,*,*,*,*,South America,Nord America,*,America
+North America,*,*,*,*,Asia Orientale,America,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Regno Unito,Asia,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,America del Sud,Asia,*,America
+America Centrale,*,*,*,*,Asia,South America,*,Europe
+Europa,*,*,*,*,Europe,America Centrale,*,America
+Europa,*,*,*,*,America Centrale,Southeast Asia,*,Europa
+North America,*,*,*,*,Europe,Asia,*,Europa
+Europe,*,*,*,*,Europe,Europe,*,America
+Europa,*,*,*,*,South America,America del Sud,*,America
+Sud-est asiatico,*,*,*,*,Asia,Europe,*,Europe
+Europa,*,*,*,*,Europe,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+America Centrale,*,*,*,*,Europa,Asia,*,America
+America Centrale,*,*,*,*,Oceania,Southeast Asia,*,North-America
+Asia,*,*,*,*,Asia,Nord America,*,America
+Asia,*,*,*,*,America,North America,*,Europe
+Europe,*,*,*,*,Oceania,North America,*,America
+Europa,*,*,*,*,North America,Caribbean,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+America,*,*,*,*,America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,America,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North America,Europe,*,America
+Asia,*,*,*,*,Asia,Sud America,*,America
+Europe,*,*,*,*,Africa,America del Sud,*,America
+America del Nord,*,*,*,*,North America,Europe,*,America
+America,*,*,*,*,Asia,America del Sud,*,US
+America Centrale,*,*,*,*,Asia,Nord America,*,East Asia
+America del Nord,*,*,*,*,Sud-est asiatico,Europa,*,America
+America,*,*,*,*,America,Europe,*,America
+Europe,*,*,*,*,America del Sud,Europe,*,America
+Sud-est asiatico,*,*,*,*,America,Asia,*,Europe
+America,*,*,*,*,Europe,Nord America,*,America
+America Centrale,*,*,*,*,America Centrale,Europe,*,America
+Europa,*,*,*,*,Europe,Southeast Asia,*,America
+North America,*,*,*,*,America del Sud,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,North America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Europa,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,Stati Uniti,*,America
+America,*,*,*,*,America del Sud,Europe,*,Asia
+Asia,*,*,*,*,Asia,Sud America,*,America
+Europe,*,*,*,*,Asia,Europe,*,America
+America Centrale,*,*,*,*,North America,Asia,*,America
+America,*,*,*,*,Europa,Europe,*,America
+Asia,*,*,*,*,Europa,Europe,*,America
+Europa,*,*,*,*,America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Asia,America del Sud,*,US
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+Europe,*,*,*,*,Europa dell'Est,North America,*,America
+Europe,*,*,*,*,Middle East,America,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Western Europe,America del Sud,*,America
+Europe,*,*,*,*,North America,Stati Uniti,*,America
+Sud-est asiatico,*,*,*,*,Europe,Stati Uniti,*,America
+Europe,*,*,*,*,Middle East,Europe,*,America
+Asia,*,*,*,*,North-America,Asia,*,America
+Central-America,*,*,*,*,America,Southeast Asia,*,Europa
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europe,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Sud-est asiatico,Southeast Asia,*,America
+Europe,*,*,*,*,America,Europa,*,America
+Europe,*,*,*,*,Western Europe,Europa,*,America
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,Asia
+Europa,*,*,*,*,Asia,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,North America,Nord America,*,America
+Europa,*,*,*,*,Asia,Sud America,*,America
+America,*,*,*,*,America,Europe,*,America
+Europa,*,*,*,*,Western Europe,Asia,*,America
+North America,*,*,*,*,North America,North America,*,Asia
+Europe,*,*,*,*,North America,Europe,*,America
+America,*,*,*,*,Sud-est asiatico,North America,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Asia,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europe,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North-America,America Centrale,*,Europa
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+Europe,*,*,*,*,Asia,Europe,*,America
+America,*,*,*,*,Asia,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+Europe,*,*,*,*,North America,Europe,*,America
+Europe,*,*,*,*,Oceania,South America,*,Southeast Asia
+Asia,*,*,*,*,Asia,Southeast Asia,*,America
+Europe,*,*,*,*,North America,Stati Uniti,*,America Centrale
+America,*,*,*,*,Sud-est asiatico,Europe,*,Asia
+Europe,*,*,*,*,North America,Asia,*,America
+Europe,*,*,*,*,Europe,America del Sud,*,America
+Europe,*,*,*,*,Africa,Stati Uniti,*,America
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Oceania,Europa,*,America
+Europa,*,*,*,*,Europa,North America,*,America
+North America,*,*,*,*,North America,Europa,*,America
+Europe,*,*,*,*,Regno Unito,Sud America,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Asia,Asia,*,Asia
+Asia,*,*,*,*,Asia,Nord America,*,America
+Europa,*,*,*,*,Europe,Southeast Asia,*,America
+America,*,*,*,*,Asia,America del Sud,*,US
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Asia,*,Europe
+Europa,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Europe,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,America,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europa,Southern Europe,*,Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,Southeast Asia,*,America
+Europa,*,*,*,*,Europa,Southeast Asia,*,America
+Europe,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,Europe,America Centrale,*,Europa
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Oceania,Europa,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,America Centrale,*,America
+Asia,*,*,*,*,Sud-est asiatico,Nord America,*,America
+North America,*,*,*,*,South America,Southeast Asia,*,America
+America,*,*,*,*,Europe,South America,*,America
+America,*,*,*,*,Europa,America Centrale,*,America
+America Centrale,*,*,*,*,America Centrale,Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Asia,*,America
+North America,*,*,*,*,Europa dell'Est,Europe,*,US
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,America Centrale,Europe,*,America
+America Centrale,*,*,*,*,America Centrale,Europe,*,America
+North America,*,*,*,*,Africa,Europe,*,America
+Asia,*,*,*,*,Asia,North America,*,America
+Europa,*,*,*,*,America Centrale,North America,*,America
+Asia,*,*,*,*,America,Southeast Asia,*,North America
+Europe,*,*,*,*,America,North America,*,US
+America,*,*,*,*,Europe,Southeast Asia,*,North-America
+Europe,*,*,*,*,Africa,Stati Uniti,*,America
+America del Nord,*,*,*,*,Africa,Asia,*,America
+America Centrale,*,*,*,*,Asia,America Centrale,*,America
+Europe,*,*,*,*,Oceania,America del Sud,*,America
+America,*,*,*,*,Asia,Asia,*,America
+Asia,*,*,*,*,Europe,Southeast Asia,*,America
+America,*,*,*,*,Asia,America del Sud,*,America
+Sud-est asiatico,*,*,*,*,America Centrale,Europa,*,America
+Asia,*,*,*,*,Europe,America,*,Europa
+Asia,*,*,*,*,North-America,Asia,*,America
+Europe,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,North-America,South America,*,Europe
+Europa,*,*,*,*,North America,Europe,*,America
+Asia,*,*,*,*,America,Southeast Asia,*,North America
+North America,*,*,*,*,Asia,North America,*,America
+America,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Sud-est asiatico,Nord America,*,America Centrale
+North America,*,*,*,*,South America,Asia,*,America
+Europe,*,*,*,*,Middle East,Europe,*,America
+Europe,*,*,*,*,America,North America,*,Southern-Europe
+Sud-est asiatico,*,*,*,*,America,Asia,*,Europe
+Asia,*,*,*,*,America del Sud,Europe,*,America
+Europe,*,*,*,*,America,North America,*,America Centrale
+Asia,*,*,*,*,Regno Unito,Europe,*,America
+Asia,*,*,*,*,North America,America,*,America Centrale
+Europa,*,*,*,*,Europe,South America,*,America
+North America,*,*,*,*,Asia Orientale,Asia,*,America
+North America,*,*,*,*,Oceania,Europa,*,America
+America Centrale,*,*,*,*,Oceania,Southeast Asia,*,North-America
+Asia,*,*,*,*,Western Europe,America del Sud,*,America
+North America,*,*,*,*,Asia Orientale,America,*,America
+North America,*,*,*,*,Europa,Asia,*,America
+Asia,*,*,*,*,Sud-est asiatico,North America,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,America Centrale,*,Asia
+*,*,*,*,*,*,*,*,*
+America del Nord,*,*,*,*,Europe,Southeast Asia,*,America
+North America,*,*,*,*,North America,Asia,*,America
+America,*,*,*,*,Asia,America,*,Europa
+Europe,*,*,*,*,America,Western Asia,*,America
+America del Nord,*,*,*,*,Asia,Southeast Asia,*,America
+America,*,*,*,*,Africa,Europe,*,America
+Europa,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,America del Sud,Asia,*,America
+America Centrale,*,*,*,*,America Centrale,Europa,*,America Centrale
+Asia,*,*,*,*,America Centrale,Europe,*,America
+Asia,*,*,*,*,North-America,Europe,*,America
+North America,*,*,*,*,Europe,Southern Europe,*,America
+Central-America,*,*,*,*,America,Southeast Asia,*,Europe
+America,*,*,*,*,Oceania,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,Asia,*,Europe
+Sud-est asiatico,*,*,*,*,America Centrale,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Stati Uniti,*,America
+North America,*,*,*,*,North America,Europe,*,South America
+North America,*,*,*,*,America,America Centrale,*,America
+Europe,*,*,*,*,Europe,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europa,Europa,*,America
+Europe,*,*,*,*,Sud-est asiatico,America,*,America
+America,*,*,*,*,Asia,Nord America,*,America
+Asia,*,*,*,*,America,Europe,*,America Centrale
+Europa,*,*,*,*,Oceania,Europa,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europa,Asia,*,America
+America del Nord,*,*,*,*,America,America,*,America
+Asia,*,*,*,*,North America,Europe,*,America
+Asia,*,*,*,*,Asia,Western Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+America del Nord,*,*,*,*,North America,Sud America,*,Central-America
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,Europe
+Europe,*,*,*,*,Europe,Southeast Asia,*,America
+Europe,*,*,*,*,Asia Orientale,North America,*,America
+Europe,*,*,*,*,Europe,Southeast Asia,*,America
+America Centrale,*,*,*,*,Europa dell'Est,Asia,*,Southeast Asia
+Asia,*,*,*,*,Sud-est asiatico,Southeast Asia,*,America
+North America,*,*,*,*,Asia,Asia,*,America
+Asia,*,*,*,*,Sud-est asiatico,North America,*,America
+Europa,*,*,*,*,Middle East,Europe,*,America
+North America,*,*,*,*,Europa,Europa,*,America
+Asia,*,*,*,*,North America,America,*,America Centrale
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Asia,America del Sud,*,America
+America,*,*,*,*,America Centrale,America Centrale,*,Asia
+Sud-est asiatico,*,*,*,*,Oceania,Europe,*,Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,America,*,America
+America,*,*,*,*,Asia,Sud America,*,America
+North America,*,*,*,*,America Centrale,America,*,America
+North America,*,*,*,*,South America,South America,*,America
+Europe,*,*,*,*,Africa,America del Sud,*,America
+North America,*,*,*,*,North America,North America,*,Asia
+Europa,*,*,*,*,Sud-est asiatico,Europe,*,America
+Asia,*,*,*,*,North America,North America,*,America
+America del Nord,*,*,*,*,North America,America Centrale,*,Europa
+North America,*,*,*,*,Asia,South America,*,America
+Europe,*,*,*,*,North-America,North America,*,America
+Europe,*,*,*,*,Europa,Europe,*,America
+Asia,*,*,*,*,Western Europe,Europe,*,Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,America
+America,*,*,*,*,Asia,Europe,*,South America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Europe,Southeast Asia,*,Asia
+North America,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,North-America,Europe,*,North America
+America,*,*,*,*,Asia,America,*,Europa
+Sud-est asiatico,*,*,*,*,Oceania,Europe,*,Asia
+Asia,*,*,*,*,Asia,Southeast Asia,*,America
+Asia,*,*,*,*,Europe,Stati Uniti,*,America
+*,*,*,*,*,*,*,*,*
+Central-America,*,*,*,*,America,Southeast Asia,*,Europa
+Europa,*,*,*,*,North America,Sud America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,Asia,*,Asia
+Europe,*,*,*,*,Regno Unito,Asia,*,America
+Asia,*,*,*,*,America,America,*,South America
+Asia,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,America,Nord America,*,America Centrale
+Europe,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,Europa,America del Sud,*,America
+Sud-est asiatico,*,*,*,*,Asia,Europe,*,Europe
+Asia,*,*,*,*,North-America,Europe,*,Europe
+Europa,*,*,*,*,Sud-est asiatico,Europe,*,America
+Asia,*,*,*,*,North-America,Europe,*,America
+Europa,*,*,*,*,North America,Southeast Asia,*,America
+Asia,*,*,*,*,North America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,America Centrale,Nord America,*,America
+America del Nord,*,*,*,*,North America,America Centrale,*,Europa
+Europe,*,*,*,*,Asia,Europe,*,America
+Europa,*,*,*,*,Europa,South America,*,North-America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Middle East,Asia,*,America
+America Centrale,*,*,*,*,Oceania,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America del Nord,*,*,*,*,America,America,*,America
+Europe,*,*,*,*,North America,Europa,*,America
+Europa,*,*,*,*,Asia,Asia,*,America
+Europa,*,*,*,*,North-America,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,America Centrale,*,Asia
+America,*,*,*,*,North-America,Nord America,*,Europe
+North America,*,*,*,*,Regno Unito,Asia,*,Europe
+Europe,*,*,*,*,Europa,America del Sud,*,Asia
+North America,*,*,*,*,Asia Orientale,Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Asia,*,America
+America,*,*,*,*,America del Sud,North America,*,America
+Europa,*,*,*,*,Middle East,Europe,*,America
+Asia,*,*,*,*,America del Sud,Europe,*,America
+Europe,*,*,*,*,Asia,America Centrale,*,America
+Europe,*,*,*,*,Asia,Europe,*,US
+North America,*,*,*,*,Europa,Nord America,*,Southeast Asia
+North America,*,*,*,*,America Centrale,Asia,*,America
+Asia,*,*,*,*,Europe,Asia,*,America
+Europe,*,*,*,*,Europe,Europe,*,America
+Europe,*,*,*,*,Regno Unito,Europe,*,America
+Asia,*,*,*,*,Europa,Europe,*,America
+Asia,*,*,*,*,Europe,Stati Uniti,*,America
+Europa,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,North America,Stati Uniti,*,America
+Asia,*,*,*,*,Europe,Nord America,*,America
+America,*,*,*,*,Sud-est asiatico,Nord America,*,America Centrale
+North America,*,*,*,*,Regno Unito,North America,*,Europa
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Europa,South America,*,Europe
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europe,Southeast Asia,*,America
+Europe,*,*,*,*,Europe,Europe,*,Asia
+Europa,*,*,*,*,Europe,Southeast Asia,*,America
+North America,*,*,*,*,Regno Unito,Asia,*,Europe
+Europa,*,*,*,*,Europe,Asia,*,Asia
+Asia Orientale,*,*,*,*,Middle East,America Centrale,*,Europe
+Europe,*,*,*,*,America Centrale,Europe,*,America
+Asia,*,*,*,*,North America,Nord America,*,America Centrale
+America del Nord,*,*,*,*,Europa,Southern Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Europa,America Centrale,*,America
+Asia,*,*,*,*,Sud-est asiatico,Asia,*,Europe
+Europa,*,*,*,*,Sud-est asiatico,Nord America,*,America
+Europa,*,*,*,*,America Centrale,Europe,*,Europe
+America Centrale,*,*,*,*,North America,Nord America,*,America
+Asia,*,*,*,*,America,Nord America,*,America Centrale
+Asia,*,*,*,*,Africa,Europe,*,Europa
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Asia,Sud America,*,America
+Europe,*,*,*,*,Europe,Europe,*,America
+Europe,*,*,*,*,America,North America,*,America
+Europa,*,*,*,*,Asia,Western Asia,*,Asia
+America,*,*,*,*,North-America,Nord America,*,Europe
+Europe,*,*,*,*,Europa,America del Sud,*,Asia
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europa,Asia,*,America
+Asia,*,*,*,*,Africa,Europe,*,Europa
+America Centrale,*,*,*,*,Europa dell'Est,Asia,*,Southeast Asia
+Europe,*,*,*,*,Asia,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Regno Unito,Caribbean,*,America
+North America,*,*,*,*,Asia,Asia,*,Asia
+Asia,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Oceania,America Centrale,*,America
+America,*,*,*,*,Asia,Southeast Asia,*,America
+Europa,*,*,*,*,North America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,America Centrale,Asia,*,America
+Asia,*,*,*,*,Asia,Europe,*,America
+America del Nord,*,*,*,*,Africa,Europe,*,America
+Europe,*,*,*,*,Europa,Stati Uniti,*,America
+America del Sud,*,*,*,*,America,Nord America,*,America
+America,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,Asia,Asia,*,Asia
+Asia,*,*,*,*,America Centrale,Europe,*,America
+Europa,*,*,*,*,Middle East,Europa,*,America
+Asia,*,*,*,*,North America,Europe,*,America
+Europa,*,*,*,*,Asia,Europe,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Asia,Asia,*,America
+North America,*,*,*,*,Europa,Europa,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Europe,North America,*,America
+North America,*,*,*,*,America del Sud,Europe,*,Europe
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Middle East,Caribbean,*,East Asia
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,America,*,America
+Europe,*,*,*,*,Europa,America del Sud,*,US
+Europe,*,*,*,*,Asia,Asia,*,America
+Europa,*,*,*,*,Europa,South America,*,North-America
+America,*,*,*,*,Sud-est asiatico,North America,*,America
+North America,*,*,*,*,Asia,America Centrale,*,America
+North America,*,*,*,*,Oceania,Europa,*,America
+Asia,*,*,*,*,Asia,Europe,*,East Asia
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America,America Centrale,*,America
+Europa,*,*,*,*,Asia,Southeast Asia,*,America
+North America,*,*,*,*,Asia,America,*,South America
+Europe,*,*,*,*,Europe,Asia,*,America
+Sud-est asiatico,*,*,*,*,Europe,Stati Uniti,*,America
+North America,*,*,*,*,Western Europe,America Centrale,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,Asia,Asia,*,America
+Europe,*,*,*,*,America,North America,*,US
+Asia,*,*,*,*,Europa,North America,*,Europa
+America Centrale,*,*,*,*,Middle East,Europe,*,America
+North America,*,*,*,*,Africa,Europe,*,America
+Europa,*,*,*,*,North America,Europa,*,America Centrale
+Europe,*,*,*,*,Asia,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Western Europe,Western Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,Sud-est asiatico,America del Sud,*,America
+North America,*,*,*,*,Asia,America,*,South America
+Europa,*,*,*,*,Asia,Southern Europe,*,America
+North America,*,*,*,*,Europe,Southeast Asia,*,America
+Europe,*,*,*,*,Europa,Europe,*,America
+Europe,*,*,*,*,America Centrale,Europe,*,America
+Europa,*,*,*,*,Europe,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Asia,*,America
+America Centrale,*,*,*,*,America Centrale,Nord America,*,America
+America,*,*,*,*,Regno Unito,Caribbean,*,America
+Europa,*,*,*,*,Europa,Southeast Asia,*,America
+Asia,*,*,*,*,North America,Southeast Asia,*,America
+Europe,*,*,*,*,America,Asia,*,America
+Asia,*,*,*,*,America,America Centrale,*,America
+Europe,*,*,*,*,Europa,Asia,*,Europa
+Europe,*,*,*,*,North-America,Europa,*,US
+Europe,*,*,*,*,Europa,America del Sud,*,US
+North America,*,*,*,*,Asia,America del Sud,*,America Centrale
+Asia,*,*,*,*,America,North America,*,Europe
+Asia,*,*,*,*,Sud-est asiatico,Southeast Asia,*,America
+Europe,*,*,*,*,Europe,Asia,*,America
+America Centrale,*,*,*,*,Middle East,Europe,*,America
+North America,*,*,*,*,Europa,Nord America,*,Southeast Asia
+Europe,*,*,*,*,Asia Orientale,North America,*,America
+Asia,*,*,*,*,Regno Unito,Europe,*,America
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Sud-est asiatico,Europe,*,South America
+Sud-est asiatico,*,*,*,*,South America,Europe,*,Asia
+America Centrale,*,*,*,*,Oceania,Asia,*,America
+America,*,*,*,*,Europa,Europe,*,America
+Europa,*,*,*,*,Sud-est asiatico,Europe,*,America
+Europa,*,*,*,*,Europe,Europe,*,Europe
+Europe,*,*,*,*,Europa,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North-America,America Centrale,*,Europa
+Asia,*,*,*,*,Asia,North America,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Europa,Southeast Asia,*,America
+Europe,*,*,*,*,Asia,Europe,*,America
+Europa,*,*,*,*,Europe,Sud America,*,Europe
+Asia,*,*,*,*,South America,Europe,*,America
+America del Sud,*,*,*,*,Europe,Europe,*,Europe
+Europe,*,*,*,*,Europe,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Asia,*,Asia
+Europa,*,*,*,*,Europe,America del Sud,*,America
+Europe,*,*,*,*,Europe,Europe,*,America
+North America,*,*,*,*,America,Europe,*,Asia
+North America,*,*,*,*,Asia,Europe,*,America
+Asia,*,*,*,*,South America,Europe,*,America
+Europe,*,*,*,*,America,North America,*,Southern-Europe
+Europe,*,*,*,*,America,North America,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europa,Europe,*,America
+Europe,*,*,*,*,America Centrale,Europa,*,America
+North America,*,*,*,*,America Centrale,America,*,America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,North America,Europe,*,America
+Europa,*,*,*,*,Asia,Europe,*,America
+Sud-est asiatico,*,*,*,*,America Centrale,Europa,*,America
+Europe,*,*,*,*,North America,Asia,*,America
+America del Sud,*,*,*,*,America,Europa,*,America
+Europa,*,*,*,*,America Centrale,Europe,*,Europe
+North America,*,*,*,*,Western Europe,America Centrale,*,America
+North America,*,*,*,*,Asia,America Centrale,*,Asia
+Middle East,*,*,*,*,America Centrale,Europa,*,America
+America,*,*,*,*,America,Southeast Asia,*,America
+North America,*,*,*,*,Asia Orientale,Western Asia,*,America
+Asia,*,*,*,*,Sud-est asiatico,Nord America,*,America
+North America,*,*,*,*,South America,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America Centrale,Southeast Asia,*,Asia
+North America,*,*,*,*,Sud-est asiatico,Southeast Asia,*,America
+America,*,*,*,*,Europa,Europe,*,America
+America Centrale,*,*,*,*,North America,America Centrale,*,Asia
+Asia,*,*,*,*,Europe,Asia,*,America
+Europe,*,*,*,*,Europe,America del Sud,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europa,Europa,*,America
+North America,*,*,*,*,Europa,Nord America,*,America
+Europe,*,*,*,*,America del Sud,Europe,*,America
+Europe,*,*,*,*,America Centrale,Asia,*,Europe
+America Centrale,*,*,*,*,Europa,America del Sud,*,America
+Europe,*,*,*,*,America Centrale,Nord America,*,America
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,Asia,Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,South America,North America,*,America
+Europa,*,*,*,*,North America,Europe,*,America
+Europa,*,*,*,*,Middle East,Europa,*,America
+Europe,*,*,*,*,Europe,America del Sud,*,America
+Europe,*,*,*,*,Europa,Southern Europe,*,Europe
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Western Europe,Europa,*,America
+Europe,*,*,*,*,Asia,Asia,*,Asia
+Asia,*,*,*,*,Europe,Nord America,*,America
+America Centrale,*,*,*,*,Asia,Asia,*,America
+Asia,*,*,*,*,Asia,Western Asia,*,America
+Europe,*,*,*,*,North America,Southeast Asia,*,America
+Europa,*,*,*,*,America del Sud,Asia,*,America
+North America,*,*,*,*,Asia,Europe,*,America
+*,*,*,*,*,*,*,*,*
+America Centrale,*,*,*,*,Asia,Europe,*,America
+Europa,*,*,*,*,America del Sud,Asia,*,America
+*,*,*,*,*,*,*,*,*
+America,*,*,*,*,North America,Western Asia,*,North America
+Asia,*,*,*,*,America,America,*,South America
+Europe,*,*,*,*,North-America,Europe,*,America
+Asia,*,*,*,*,Europa,Europe,*,America
+North America,*,*,*,*,Sud-est asiatico,Asia,*,East Asia
+Europe,*,*,*,*,Asia,Asia,*,America
+America,*,*,*,*,Europe,Southeast Asia,*,North-America
+America,*,*,*,*,Europe,Europe,*,Central-America
+*,*,*,*,*,*,*,*,*
+Asia,*,*,*,*,America del Sud,America Centrale,*,US
+North America,*,*,*,*,Asia,America Centrale,*,Asia
+North America,*,*,*,*,North America,North America,*,Europe
+*,*,*,*,*,*,*,*,*
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,South America,South America,*,America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Europe,Asia,*,Asia
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,Asia,Southeast Asia,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Oceania,South America,*,Southeast Asia
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,America,Asia,*,America
+North America,*,*,*,*,Africa,Nord America,*,America
+North America,*,*,*,*,North America,Europa,*,America
+America del Nord,*,*,*,*,South America,North America,*,America
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,America,Asia,*,America
+*,*,*,*,*,*,*,*,*
+North America,*,*,*,*,North America,Europa,*,America
+America,*,*,*,*,Europe,South America,*,America
+North America,*,*,*,*,America del Sud,Europe,*,Europe
+Asia,*,*,*,*,America Centrale,Europe,*,America
+Asia,*,*,*,*,North America,Asia,*,Asia
+Europa,*,*,*,*,Sud-est asiatico,Nord America,*,America
+Europe,*,*,*,*,Asia,Asia,*,Asia
+Europa,*,*,*,*,North America,Europa,*,America Centrale
+Europe,*,*,*,*,America Centrale,America,*,America
+Asia,*,*,*,*,Europe,America,*,Europa
+Asia,*,*,*,*,North America,Europe,*,America
+Europe,*,*,*,*,Europa,Europe,*,America
+Asia,*,*,*,*,Asia,Europa,*,America
+Asia,*,*,*,*,Middle East,North America,*,Central-America
+*,*,*,*,*,*,*,*,*
+Europa,*,*,*,*,America Centrale,North America,*,America
+*,*,*,*,*,*,*,*,*
+Central-America,*,*,*,*,America,Southeast Asia,*,Europe
+Asia,*,*,*,*,Sud-est asiatico,Asia,*,Europe
+*,*,*,*,*,*,*,*,*
+Europe,*,*,*,*,Europe,Europe,*,Asia
+Europe,*,*,*,*,North America,Stati Uniti,*,America
+*,*,*,*,*,*,*,*,*
